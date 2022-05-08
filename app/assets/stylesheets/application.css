@@ -116,3 +116,7 @@ a:hover{
 a:visited{
   color: grey;
 }
+
+#notice{
+  color: green;
+}
