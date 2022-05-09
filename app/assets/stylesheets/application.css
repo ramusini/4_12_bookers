@@ -165,3 +165,7 @@ li{
   text-align: match-parent;
   font-weight: lighter;
 }
+
+.edit_links{
+  margin-top: 10px
+}
